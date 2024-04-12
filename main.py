@@ -157,7 +157,7 @@ while True:
     # cv2.imshow("Webcam", img)
    # cv2.imshow("test",frame)
     cv2.imshow("FACE  ATTENDENCE",imgBackground)
-    k= cv2.waitKey(1)
+    cv2.waitKey(1)
     
    
     
